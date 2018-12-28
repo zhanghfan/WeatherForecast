@@ -1,5 +1,9 @@
-# weatherForecast-chaoqun
-Weather forecast by Android（Android版天气预报项目）
+# 天气预报安卓版
 
-# screenshots
+## 功能：
 
+![picture1](/preview/1.png)
+
+![picture2](/preview/2.png)
+
+![picture3](/preview/3.png)
